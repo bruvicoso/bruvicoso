@@ -1,7 +1,7 @@
 # Bruno Viçoso
 ### __Software Engineer__ :computer:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-vi%C3%A7oso-a6669850/)](https://www.linkedin.com/in/bruno-vi%C3%A7oso-a6669850/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno@brumad.com.br)](mailto:bruno@brumad.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/bruno-vi%C3%A7oso-a6669850/)
+[![DockerHub](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit)](https://hub.docker.com/repository/docker/bruvicoso)
 </br></br>
 I'm always leveling up my skills
 </br>
