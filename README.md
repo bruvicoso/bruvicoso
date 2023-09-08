@@ -5,9 +5,3 @@
 I'm always leveling up my skills
 </br>
 *_All men by nature desire knowledge_* :books:
-
-</br>
-
-◄By [Bruno Viçoso](https://www.linkedin.com/in/bruno-vi%C3%A7oso-a6669850/)
-
-
